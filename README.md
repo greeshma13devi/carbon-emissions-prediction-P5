@@ -1,4 +1,4 @@
-# 🌍 # Carbon-Emissions-Prediction-P5 – (Internship Project - June 2025 Batch)
+# 🌍  Carbon-Emissions-Prediction-P5 – (Internship Project - June 2025 Batch)
 
 ## 📁 Project Description
 
