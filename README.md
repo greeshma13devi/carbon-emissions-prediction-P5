@@ -23,6 +23,9 @@ To develop a machine learning model that predicts carbon dioxide (CO₂) emissio
 - data_cleaned.csv → Cleaned dataset exported after preprocessing
 - README.md → This file
 
+## 🔗 Model Drive Link (in case model folder doesn't open):
+*[Download Model (.pkl) via Google Drive] (https://drive.google.com/file/d/1-wzx_IyQUtciTfOTHopAUv4VufQa00ba/view?usp=sharing)**
+
 ## 🛠 Tools Used
 
 - Python
